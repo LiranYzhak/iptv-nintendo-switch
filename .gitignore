@@ -1,0 +1,20 @@
+# Build directories
+/build/
+/out/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Compiled files
+*.o
+*.nro
+*.elf
+*.nacp
+*.nso
+
+# Resources
+!resources/icon.jpg
+!resources/icon_small.jpg 

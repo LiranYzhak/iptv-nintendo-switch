@@ -1,0 +1,11 @@
+{
+    "name": "IPTV Player",
+    "author": "Komi77",
+    "version": "1.0.0",
+    "category": "application",
+    "description": "IPTV Player for Nintendo Switch",
+    "url": "",
+    "license": "MIT",
+    "icon_size": 256,
+    "banner_size": 140
+} 
